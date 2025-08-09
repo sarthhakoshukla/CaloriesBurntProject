@@ -64,10 +64,3 @@ The dataset includes the following features:
 - Add real-time input prediction feature
 
 ---
-
-## 🚀 How to Run
-
-```bash
-git clone https://github.com/sarthhakoshukla/CaloriesBurntProject.git
-cd CaloriesBurntProject
-python model_training.py
